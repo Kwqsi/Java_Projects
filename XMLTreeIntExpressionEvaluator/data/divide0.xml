@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expression>
+  <plus>
+    <number value="1" />
+    <divide>
+      <number value="3" />
+      <number value="0" />
+    </divide>
+  </plus>
+</expression>
